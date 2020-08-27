@@ -1,4 +1,4 @@
-# Ruby Method Parameters Lab
+## Ruby Method Parameters Lab
 
 ## Learning Goals
 
